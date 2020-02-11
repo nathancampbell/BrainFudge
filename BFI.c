@@ -9,27 +9,12 @@
 
 /**********************************************************************/
 /*                                                                    */
-/* I pledge this assignment is my own first time work.                */
-/* I pledge I did not copy or try to copy any work from the Internet. */
-/* I pledge the only person I asked for help from was my teacher.     */
-/* I pledge I did not attempt to help any student on this assignment. */
-/* I understand if I violate this pledge I will receive a 0 grade.    */
-/*                                                                    */
-/*                                                                    */
-/*                      Signed: _____________________________________ */
-/*                                           (signature)              */
-/*                                                                    */
-/*                                                                    */
-/**********************************************************************/
-
-/**********************************************************************/
-/*                                                                    */
+/* This program reads and interprets a Brain Fudge source file.       */
 /*                                                                    */
 /**********************************************************************/
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <inttypes.h>
 
 /**********************************************************************/
 /*                        Symbolic Constants                          */
